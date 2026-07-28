@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A clean, modern, and intuitive web calculator with history log and keyboard support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
